@@ -1,2 +1,2 @@
-# github-readme
-Web app to generate simple &amp; minimal README.md file for your GitHub profile.
+# GitHub README Generator
+Generate simple and minimal README file for your GitHub profile.
